@@ -57,6 +57,6 @@
 |  Foto        |     Função    |           Nome            |                            LinkedIn                            |                      GitHub                       |
 | :----: | :-----------: | :-----------------------: | :------------------------------------------------------------: | :-----------------------------------------------: |
 | 
-| <img src="https://avatars.githubusercontent.com/u/160733714?v=4" width="75px"> | Dev Team  | Eduardo da Silva Fontes | [Linkedin](https://www.linkedin.com/in/eduardo-da-silva-fontes/)  | [GitHub](https://github.com/DuuhZero)           |
+| <img src="https://avatars.githubusercontent.com/u/103001139?v=4" width="75px"> | Dev Team  | Gabriela Silva Soares Nakayama | [Linkedin](https://www.linkedin.com/in/gabriela-nakayama-3397a0122/)  | [GitHub](https://github.com/DuuhZero)           |
 
 
