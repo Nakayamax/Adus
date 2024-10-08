@@ -16,10 +16,10 @@
 
 ## 💻 Tecnologias utilizadas <a name="tecnologias"></a>
 <div align="center">
-     <a href="https://discord.com/channels/1273276508454125680/1273276508944728180" target="_blank">
+<a href="https://discord.com/channels/1273276508454125680/1273276508944728180" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black&color=2271B3" alt="Discord">
-</a>
-    <a href="https://www.figma.com/design/2hB6rjeWHUoQ3oR5d2bING/ADUS?node-id=0-1&node-type=canvas&t=VOhzpZppa5BGqNTb-0" target="_blank">
+</a> 
+<a href="https://www.figma.com/design/2hB6rjeWHUoQ3oR5d2bING/ADUS?node-id=0-1&node-type=canvas&t=VOhzpZppa5BGqNTb-0" target="_blank">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black&color=2271B3" alt="Figma">
     </a>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&color=2271B3">
