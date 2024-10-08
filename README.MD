@@ -50,7 +50,7 @@
 
 | Foto                                                                 | Função         | Nome     | LinkedIn                                                             | GitHub                                  |
 |----------------------------------------------------------------------|----------------|----------|----------------------------------------------------------------------|-----------------------------------------|
-| ![Gabriela](link-da-foto)                                           | Líder de Equipe| Gabriela | [LinkedIn](link)                                                    | [GitHub](link)                         |
+| ![Gabriela]<img src="https://avatars.githubusercontent.com/u/103001139?v=4" width="75px"> | Líder de Equipe| Gabriela | [LinkedIn](https://www.linkedin.com/in/gabriela-nakayama-3397a0122/)  | [GitHub](link)                         |
 | ![João](link-da-foto)                                              | Desenvolvedor   | João     | [LinkedIn](link)                                                    | [GitHub](link)                         |
 | ![Ana](link-da-foto)                                               | Designer        | Ana      | [LinkedIn](link)                                                    | [GitHub](link)                         |
 | <img src="https://avatars.githubusercontent.com/u/103001139?v=4" width="75px"> | Dev Team       | Gabriela Silva Soares Nakayama | [LinkedIn](https://www.linkedin.com/in/gabriela-nakayama-3397a0122/) | [GitHub](https://github.com/DuuhZero) |
