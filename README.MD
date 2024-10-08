@@ -17,12 +17,14 @@
 ## 💻 Tecnologias utilizadas <a name="tecnologias"></a>
 <div align="center">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black&color=2271B3">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black&color=2271B3">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black&color=2271B3" alt="Figma" title="Visualize o design no Figma">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&color=2271B3">
     <img src="https://img.shields.io/badge/Trello-100000?style=for-the-badge&logo=trello&logoColor=black&color=2271B3">
     <img src="https://img.shields.io/badge/Canva-239120?&style=for-the-badge&logo=canva&logoColor=black&color=2271B3">
     <img src="https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=html5&logoColor=black&color=2271B3">
 </div>
+<p>Design do projeto disponível no <a href="https://www.figma.com/design/2hB6rjeWHUoQ3oR5d2bING/ADUS?node-id=0-1&node-type=canvas&t=VOhzpZppa5BGqNTb-0" target="_blank">Figma</a>.</p>
+
 
 ## 📌 MVP <a name="mvp"></a>
 <img src="" alt="MVP" width="600">
