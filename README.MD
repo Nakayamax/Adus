@@ -53,7 +53,17 @@
 |  13 |   3    |   Média |   |Registro de Compras e Log de Alterações para Auditorias|       |
 
 
-## 👥 Equipe <a name="equipe"><a>
+## 👥 Equipe <a name="equipe"></a>
+
+| Foto          | Função         | Nome     | LinkedIn                      | GitHub                    |
+|---------------|----------------|----------|-------------------------------|---------------------------|
+| ![Gabriela](link-da-foto) | Líder de Equipe| Gabriela | [LinkedIn](link)             | [GitHub](link)           |
+| ![João](link-da-foto)      | Desenvolvedor   | João     | [LinkedIn](link)             | [GitHub](link)           |
+| ![Ana](link-da-foto)       | Designer        | Ana      | [LinkedIn](link)             | [GitHub](link)           |
+
+
+
+
 |  Foto        |     Função    |           Nome            |                            LinkedIn                            |                      GitHub                       |
 | :----: | :-----------: | :-----------------------: | :------------------------------------------------------------: | :-----------------------------------------------: |
 | 
