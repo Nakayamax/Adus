@@ -12,7 +12,7 @@
 - [Equipe](#equipe)
 
 ## 👁 Visão do Projeto <a name="visao-do-projeto"></a>
-<p>Nosso projeto é um Sistema de Triagem focado em fornecer uma gestão integrada e eficiente para organização de refugiados. A solução permitirá o registro e controle de pessoas, com opções como aulas de português, cursos de capacitação e oportunidades de trabalho. O sistema contará com um layout de fácil acesso, reduzindo barreiras linguísticas e aumentando a eficiência operacional.</p> 
+<p>Nosso projeto é um Sistema de Triagem focado em fornecer uma gestão integrada e eficiente para organização de refugiados. A solução permitirá o acesso aos serviços da Adus: Acolhimento e proteção, Capacitação e geração de renda e Aulas de português. O sistema contará com um layout de fácil acesso, reduzindo barreiras linguísticas e aumentando a eficiência operacional.</p> 
 
 ## 💻 Tecnologias utilizadas <a name="tecnologias"></a>
 <div align="center">
