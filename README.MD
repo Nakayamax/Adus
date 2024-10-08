@@ -21,7 +21,9 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black&color=2271B3" alt="Figma">
     </a>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black&color=2271B3">
-    <img src="https://img.shields.io/badge/Trello-100000?style=for-the-badge&logo=trello&logoColor=black&color=2271B3">
+    <a href="https://trello.com/b/zEGlkxVs/tech-volunteers-adus" target="_blank">
+        <img src="https://img.shields.io/badge/Trello-100000?style=for-the-badge&logo=trello&logoColor=black&color=2271B3" alt="Trello">
+    </a>
     <img src="https://img.shields.io/badge/Canva-239120?&style=for-the-badge&logo=canva&logoColor=black&color=2271B3">
     <img src="https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=html5&logoColor=black&color=2271B3">
 </div>
