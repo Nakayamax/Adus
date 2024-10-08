@@ -28,8 +28,9 @@
     <img src="https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=html5&logoColor=black&color=2271B3">
 </div>
 
-## 📌 MVP <a name="mvp"></a>
+## 📌 MVP: Trilha Imigrante <a name="mvp"></a>
 <img src="" alt="MVP" width="600">
+
 
 ## 🛠 Ferramentas Utilizadas <a name="ferramentas"></a>
 
@@ -42,7 +43,7 @@
 
 ### Back-End
 - **Node.js**: Ambiente de execução para JavaScript no servidor.
-- ** Framework para construção de APIs.
+- **Express**: Framework para construção de APIs.
 
 ## 📜 Product Backlog <a name="backlog"></a>
 | RANK | SPRINT | PRIORIDADE | ITEM | USER STORY (NOME) | STATUS |
@@ -68,6 +69,7 @@
 |<img src="https://avatars.githubusercontent.com/u/103001139?v=4" width="75px"> | Líder de Equipe| Gabriela | [LinkedIn](https://www.linkedin.com/in/gabriela-nakayama-3397a0122/)  | [GitHub](link)                         |
 | ![João](link-da-foto)                                              | Desenvolvedor   | João     | [LinkedIn](link)                                                    | [GitHub](link)                         |
 | ![Ana](link-da-foto)                                               | Designer        | Ana      | [LinkedIn](link)                                                    | [GitHub](link)                         |
+          |
 
 
 
