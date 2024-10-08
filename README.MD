@@ -31,6 +31,19 @@
 ## 📌 MVP <a name="mvp"></a>
 <img src="" alt="MVP" width="600">
 
+## 🛠 Ferramentas Utilizadas <a name="ferramentas"></a>
+
+### Front-End
+- **HTML**: Estruturação do conteúdo.
+- **CSS**: Estilização e layout.
+- **JavaScript**: Interatividade e dinâmica.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática.
+- **Vue.js**: Framework progressivo para construção de interfaces de usuário.
+
+### Back-End
+- **Node.js**: Ambiente de execução para JavaScript no servidor.
+- ** Framework para construção de APIs.
+
 ## 📜 Product Backlog <a name="backlog"></a>
 | RANK | SPRINT | PRIORIDADE | ITEM | USER STORY (NOME) | STATUS |
 | :---: | :----: | :---: | :---: | :----------------------------: | :----: |
