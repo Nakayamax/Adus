@@ -68,7 +68,7 @@
 
 | Foto                                                                 | Função         | Nome     | LinkedIn                                                             | GitHub                                  |
 |----------------------------------------------------------------------|----------------|----------|----------------------------------------------------------------------|-----------------------------------------|
-|<img src="https://avatars.githubusercontent.com/u/103001139?v=4" width="75px"> | Líder de Equipe| Gabriela | [LinkedIn](https://www.linkedin.com/in/gabriela-nakayama-3397a0122/)  | [GitHub](link)                         |
+|<img src="https://avatars.githubusercontent.com/u/103001139?v=4" width="75px"> | Engenheira de software | Gabriela | [LinkedIn](https://www.linkedin.com/in/gabriela-nakayama-3397a0122/)  | [GitHub](link)                         |
 | ![João](link-da-foto)                                              | Desenvolvedor   | João     | [LinkedIn](link)                                                    | [GitHub](link)                         |
 | ![Ana](link-da-foto)                                               | Designer        | Ana      | [LinkedIn](link)                                                    | [GitHub](link)                         |
           |
