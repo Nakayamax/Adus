@@ -66,12 +66,19 @@
 
 ## 👥 Equipe <a name="equipe"></a>
 
-| Foto                                                                 | Função         | Nome     | LinkedIn                                                             | GitHub                                  |
-|----------------------------------------------------------------------|----------------|----------|----------------------------------------------------------------------|-----------------------------------------|
-|<img src="https://avatars.githubusercontent.com/u/103001139?v=4" width="75px"> | Engenheira de software | Gabriela | [LinkedIn](https://www.linkedin.com/in/gabriela-nakayama-3397a0122/)  | [GitHub](link)                         |
-| ![João](link-da-foto)                                              | Desenvolvedor   | João     | [LinkedIn](link)                                                    | [GitHub](link)                         |
-| ![Ana](link-da-foto)                                               | Designer        | Ana      | [LinkedIn](link)                                                    | [GitHub](link)                         |
-          |
+| Foto                                                                 | Função                | Nome                | LinkedIn                                                             | GitHub                                  |
+|----------------------------------------------------------------------|-----------------------|----------------------|----------------------------------------------------------------------|-----------------------------------------|
+| <img src="https://avatars.githubusercontent.com/u/103001139?v=4" width="75px"> | Engenheira de software | Gabriela Nakayama   | [LinkedIn](https://www.linkedin.com/in/gabriela-nakayama-3397a0122/) | [GitHub](link)                         |
+| ![Camila](link-da-foto)                                           | UX/UI Designer         | Camila Mota          | [LinkedIn](link)                                                    |                                         |
+| ![Nubia](link-da-foto)                                            | UI/UX Designer         | Nubia Borges          | [LinkedIn](link)                                                    |                                         |
+| ![Eduardo](link-da-foto)                                          | Front End Developer    | Eduardo Fontes       | [LinkedIn](link)                                                    |                                         |
+| ![Rafael](link-da-foto)                                           | Front End Developer    | Rafael Rodrigues      | [LinkedIn](link)                                                    |                                         |
+| ![Adielson](link-da-foto)                                         | Front End Developer    | Adielson             | [LinkedIn](link)                                                    |                                         |
+| ![Paulo](link-da-foto)                                            | Designer Frontend      | Paulo Almeida         | [LinkedIn](link)                                                    |                                         |
+| ![João](link-da-foto)                                              | Desenvolvedor          | João                 | [LinkedIn](link)                                                    | [GitHub](link)                         |
+| ![Thiago](link-da-foto)                                           | Backend Developer      | Thiago Santos         | [LinkedIn](link)                                                    |                                         |
+| ![Elisabete](link-da-foto)                                        | Backend Developer      | Elisabete Matis      | [LinkedIn](link)                                                    |                                         |
+
 
 
 
