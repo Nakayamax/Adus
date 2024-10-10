@@ -17,8 +17,6 @@
 <p>Nosso projeto é um Sistema de Triagem focado em fornecer uma gestão integrada e eficiente para organização de refugiados. A solução permitirá o acesso aos serviços da Adus: Acolhimento e proteção, Capacitação e geração de renda e Aulas de português. O sistema contará com um layout de fácil acesso, reduzindo barreiras linguísticas e aumentando a eficiência operacional.</p> 
 
 ## 🏗 Arquitetura de Microsserviços <a name="arquitetura-de-microsservicos"></a>
-### Por Que Usar
-Ideal para equipes multidisciplinares, permitindo que grupos (desenvolvimento, QA, operações) trabalhem em serviços específicos, aumentando a produtividade.
 
 ### Divisão de Serviços
 - Serviço de Autenticação
