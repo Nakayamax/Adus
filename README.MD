@@ -6,13 +6,25 @@
 
 ## 📑 Sumário
 - [Visão do Projeto](#visao-do-projeto)
-- [Tecnologias utilizadas](#tecnologias)
+- [Arquitetura de Microsserviços](#arquitetura-de-microsservicos)
+- [Tecnologias Utilizadas](#tecnologias)
 - [MVP](#mvp)
 - [Product Backlog](#backlog)
 - [Equipe](#equipe)
+- [Como Contribuir](#como-contribuir)
 
 ## 👁 Visão do Projeto <a name="visao-do-projeto"></a>
 <p>Nosso projeto é um Sistema de Triagem focado em fornecer uma gestão integrada e eficiente para organização de refugiados. A solução permitirá o acesso aos serviços da Adus: Acolhimento e proteção, Capacitação e geração de renda e Aulas de português. O sistema contará com um layout de fácil acesso, reduzindo barreiras linguísticas e aumentando a eficiência operacional.</p> 
+
+## 🏗 Arquitetura de Microsserviços <a name="arquitetura-de-microsservicos"></a>
+### Por Que Usar
+Ideal para equipes multidisciplinares, permitindo que grupos (desenvolvimento, QA, operações) trabalhem em serviços específicos, aumentando a produtividade.
+
+### Divisão de Serviços
+- Serviço de Autenticação
+- Serviço de Triagem
+- Serviço de Relatórios
+
 
 ## 💻 Tecnologias utilizadas <a name="tecnologias"></a>
 <div align="center">
